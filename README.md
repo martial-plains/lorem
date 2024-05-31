@@ -1,4 +1,14 @@
-# Lorem Ipsum Generator
+<h1 align="center">
+  <img src="docs/icon-256.png" alt="Dot Dash Icon" width="192" height="192"/>
+  <br>
+  Lorem
+</h1>
+
+<p align="center"><strong>Lorem Ipsum Generator</strong></p>
+
+<p align="center">
+  <img src="/docs/screenshots/lorem light.png" alt="Preview"/>
+</p>
 
 ## Overview
 
