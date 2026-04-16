@@ -22,7 +22,7 @@ log = "0.4.21"
 # You only need serde if you want app persistence:
 serde = { version = "1.0.203", features = ["derive"] }
 lipsum = "0.9.1"
-rand = "0.8.5"
+rand = "0.9.3"
 navigator = "0.3.0"
 
 # native:
